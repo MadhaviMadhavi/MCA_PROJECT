@@ -4,7 +4,7 @@ function Header() {
   return (
     <div style={{ background: "lightgray" }}>
       <h3>
-        <marquee>Just explore photos</marquee>
+        <marquee>Photo inventory project</marquee>
         <marquee>By Madhavi Neerukattu</marquee>
       </h3>
     </div>
