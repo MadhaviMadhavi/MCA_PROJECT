@@ -1,8 +1,7 @@
 import React from "react";
 
 function Header() {
-  console.log(process.env.REACT_APP_ACCESS_KEY)
-  return (
+   return (
     <div style={{ background: "lightgray" }}>
       <h3>
         <marquee>Photo inventory project</marquee>
