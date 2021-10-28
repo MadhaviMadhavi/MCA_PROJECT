@@ -1,6 +1,7 @@
 import React from "react";
 
 function Header() {
+  console.log(process.env.REACT_APP_ACCESS_KEY)
   return (
     <div style={{ background: "lightgray" }}>
       <h3>
